@@ -1,0 +1,39 @@
+﻿Build started 12/10/2015 6:52:25 PM.
+     1>Project "C:\Users\Tony Quach\Desktop\Irvine7th\Examples\Project32\Project.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling CalculateNext.asm...
+         cmd.exe /C "C:\Users\Tony Quach\AppData\Local\Temp\tmp94f88c5d9276493daddb253026ce4087.cmd"
+         ml.exe /c /nologo /Sg /WX /Zi /Fo"Debug\CalculateNext.obj" /Fl"Project.lst" /I "C:\Users\Tony Quach\Desktop\Irvine7th" /W3 /errorReport:prompt  /TaCalculateNext.asm
+       _MASM:
+         Assembling EndDemo.asm...
+         cmd.exe /C "C:\Users\Tony Quach\AppData\Local\Temp\tmp9e43799eea1d417ca45b45c18b97943d.cmd"
+         ml.exe /c /nologo /Sg /WX /Zi /Fo"Debug\EndDemo.obj" /Fl"Project.lst" /I "C:\Users\Tony Quach\Desktop\Irvine7th" /W3 /errorReport:prompt  /TaEndDemo.asm
+       _MASM:
+         Assembling GetMovement.asm...
+         cmd.exe /C "C:\Users\Tony Quach\AppData\Local\Temp\tmpdc93995a9a254726a9905b096715f19d.cmd"
+         ml.exe /c /nologo /Sg /WX /Zi /Fo"Debug\GetMovement.obj" /Fl"Project.lst" /I "C:\Users\Tony Quach\Desktop\Irvine7th" /W3 /errorReport:prompt  /TaGetMovement.asm
+       _MASM:
+         Assembling Main.asm...
+         cmd.exe /C "C:\Users\Tony Quach\AppData\Local\Temp\tmp14db916018164755a09d2d73843b3d09.cmd"
+         ml.exe /c /nologo /Sg /WX /Zi /Fo"Debug\Main.obj" /Fl"Project.lst" /I "C:\Users\Tony Quach\Desktop\Irvine7th" /W3 /errorReport:prompt  /TaMain.asm
+       _MASM:
+         Assembling Move.asm...
+         cmd.exe /C "C:\Users\Tony Quach\AppData\Local\Temp\tmp265263ba79494f788a4a2748eb33939d.cmd"
+         ml.exe /c /nologo /Sg /WX /Zi /Fo"Debug\Move.obj" /Fl"Project.lst" /I "C:\Users\Tony Quach\Desktop\Irvine7th" /W3 /errorReport:prompt  /TaMove.asm
+       _MASM:
+         Assembling Print.asm...
+         cmd.exe /C "C:\Users\Tony Quach\AppData\Local\Temp\tmp4db1f6dba00a4d9f915054954de1a9ec.cmd"
+         ml.exe /c /nologo /Sg /WX /Zi /Fo"Debug\Print.obj" /Fl"Project.lst" /I "C:\Users\Tony Quach\Desktop\Irvine7th" /W3 /errorReport:prompt  /TaPrint.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tony Quach\Desktop\Irvine7th\Examples\Project32\Debug\Project.exe" /NOLOGO /LIBPATH:"C:\Users\Tony Quach\Desktop\Irvine7th" user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Tony Quach\Desktop\Irvine7th\Examples\Project32\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\Tony Quach\Desktop\Irvine7th\Examples\Project32\Debug\Project.lib" /MACHINE:X86 /SAFESEH:NO Debug\CalculateNext.obj
+         Debug\EndDemo.obj
+         Debug\GetMovement.obj
+         Debug\Main.obj
+         Debug\Move.obj
+         Debug\Print.obj
+         Project.vcxproj -> C:\Users\Tony Quach\Desktop\Irvine7th\Examples\Project32\Debug\Project.exe
+     1>Done Building Project "C:\Users\Tony Quach\Desktop\Irvine7th\Examples\Project32\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.93
